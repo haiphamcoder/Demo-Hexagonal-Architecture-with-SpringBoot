@@ -1,4 +1,4 @@
-package com.hexagonal.demo.adapters.persistence;
+package com.hexagonal.demo.ports.output;
 
 import com.hexagonal.demo.domain.entity.Contact;
 import org.springframework.data.jpa.repository.JpaRepository;

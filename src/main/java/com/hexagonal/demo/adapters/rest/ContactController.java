@@ -1,4 +1,4 @@
-package com.hexagonal.demo.application;
+package com.hexagonal.demo.adapters.rest;
 
 import com.hexagonal.demo.domain.entity.Contact;
 import com.hexagonal.demo.ports.input.ContactService;

@@ -2,7 +2,7 @@ package com.hexagonal.demo.domain.service;
 
 import com.hexagonal.demo.domain.entity.Contact;
 import com.hexagonal.demo.ports.input.ContactService;
-import com.hexagonal.demo.adapters.persistence.ContactRepository;
+import com.hexagonal.demo.ports.output.ContactRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

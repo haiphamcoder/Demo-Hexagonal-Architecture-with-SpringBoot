@@ -1,4 +1,4 @@
-package com.hexagonal.demo.persistance;
+package com.hexagonal.demo.adapters.persistence;
 
 import com.hexagonal.demo.domain.entity.Contact;
 import org.springframework.data.jpa.repository.JpaRepository;

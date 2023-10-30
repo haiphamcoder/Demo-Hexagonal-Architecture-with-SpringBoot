@@ -1,7 +1,7 @@
 package com.hexagonal.demo.application;
 
 import com.hexagonal.demo.domain.entity.Contact;
-import com.hexagonal.demo.domain.service.ContactService;
+import com.hexagonal.demo.ports.input.ContactService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
